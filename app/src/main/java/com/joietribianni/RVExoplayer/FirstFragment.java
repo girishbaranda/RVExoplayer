@@ -103,7 +103,7 @@ public class FirstFragment extends Fragment {
                 "If my future husband doesn't cook food as good as my mother should I scold him?");
         mediaObject2.setCoverUrl(
                 "https://i.redd.it/j6myfqglup501.jpg");
-        mediaObject2.setUrl("https://glimps-video-bucket.s3.ap-south-1.amazonaws.com/1.mp4");
+        mediaObject2.setUrl("https://glimps-video-bucket.s3.ap-south-1.amazonaws.com/2.mp4");
         MediaObject mediaObject3 = new MediaObject();
         mediaObject3.setId(3);
         mediaObject3.setUserHandle("@arun.gandhi");
